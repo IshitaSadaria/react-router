@@ -7,7 +7,7 @@ const About = () => {
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
                         <img
-                            src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                            src="https://static.vecteezy.com/system/resources/thumbnails/004/491/054/small_2x/web-design-concept-for-web-banner-man-creates-site-layout-places-graphic-elements-and-navigation-buttons-page-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"
                             alt="image"
                         />
                     </div>
